@@ -1,5 +1,5 @@
 # Patatap-Clone
 Patatap Clone using PaperJS and HowlerJS
 
-PaperJS http://paperjs.org/
-HowlerJS https://howlerjs.com/
+PaperJS http://paperjs.org/ <br />
+HowlerJS https://howlerjs.com/ 
